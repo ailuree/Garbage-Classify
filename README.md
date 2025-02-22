@@ -85,8 +85,3 @@ darknet detector demo .\train.data .\yolo-fastest.cfg .\backup\yolo-fastest_best
 ![](./yolo-fastest/test.png)
 
 但是实测效果一般, 故比赛中又改为了 Xception。
-
-## STM32端具体实现
-
-## 机械结构及设计思路
-暂未整理
